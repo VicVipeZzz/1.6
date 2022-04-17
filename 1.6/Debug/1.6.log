@@ -1,0 +1,5 @@
+﻿  Lorry.cpp
+C:\Users\vikto\source\repos\1.6\1.6\Lorry.cpp(29,27): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+  Source.cpp
+  Generating Code...
+  1.6.vcxproj -> C:\Users\vikto\source\repos\1.6\Debug\1.6.exe

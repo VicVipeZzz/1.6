@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest7.cpp
+C:\Users\vikto\source\repos\1.6\1.6\Lorry.cpp(29,27): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+     Creating library C:\Users\vikto\source\repos\1.6\Debug\UnitTest7.lib and object C:\Users\vikto\source\repos\1.6\Debug\UnitTest7.exp
+  UnitTest7.vcxproj -> C:\Users\vikto\source\repos\1.6\Debug\UnitTest7.dll
